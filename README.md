@@ -1,2 +1,1 @@
-# QR-code-component
-Front end challenge: QR code component
+# QR code component
